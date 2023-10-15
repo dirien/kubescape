@@ -9,6 +9,8 @@ Well-known companies who are using and/or contributing to Kubescape are (in alph
 * Meetup
 * RedHat
 * Scaleway
+* MegaLinter
+
 
 # Users
 
